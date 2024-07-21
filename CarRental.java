@@ -254,6 +254,8 @@ class CarRentalSystem{
             rentalSystem.addCar(car1);
             rentalSystem.addCar(car2);
             rentalSystem.addCar(car3);
+            rentalSystem.addCar(car4);
+            rentalSystem.addCar(car5);
             
             rentalSystem.menu();
         }
